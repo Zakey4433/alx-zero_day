@@ -1,1 +1,1 @@
-My first readme
+its school time
